@@ -1,0 +1,1 @@
+/home/pelefth/.config/omarchy/current/theme/neovim.lua
